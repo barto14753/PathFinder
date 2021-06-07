@@ -32,8 +32,8 @@ WIDTH = 800
 HEIGHT = 800
 
 # squar sizes
-SQ_X = 5
-SQ_Y = 5
+SQ_X = 20
+SQ_Y = 20
 SQ_WIDTH = 1
 SQ_BORDER_WIDTH = 2
 SQ_COLOR = BLACK
