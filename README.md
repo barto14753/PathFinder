@@ -6,5 +6,6 @@ Visualization of simple pathfinding algorithm
     python3 main.py
 
 ## In-app
-https://user-images.githubusercontent.com/56938330/153635938-d3d43b2e-22b5-474c-94c0-94dada4bede0.mov
+
+https://user-images.githubusercontent.com/56938330/153642566-bee005d4-2c9e-445e-98ba-2087ba90d843.mov
 
